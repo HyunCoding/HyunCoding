@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=black"/>
     <img src="https://img.shields.io/badge/JSP-73BA25?style=flat-square&logo=JSP&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JPA-004027?style=flat-square&logo=JPA&logoColor=black"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
 </div>
 
