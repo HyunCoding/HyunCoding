@@ -95,6 +95,7 @@
 ### << Environment >>
 
 <div>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Quartz-00B4EF?style=flat-square&logo=Quartz&logoColor=black"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
