@@ -2,7 +2,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&section=header&text=Dev+Hyuncoding&fontSize=80&fontAlignY=70&fontColor=f2f2f2&)
+![github_profile_banner](https://github.com/hyuncoding/hyuncoding/assets/134760674/9adb2186-4c7e-4a39-8812-59f0ece7fdb6)
 
 <center>
 
