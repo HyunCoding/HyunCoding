@@ -33,7 +33,7 @@
 ## ⌨️ Skill
 
 
-###  << Back-End >> 
+###  📌 Back-End 
 
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
 </div>
 
-### << Frond-End >>
+### 📌 Frond-End
 
 <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
 </div>
 
-### << Database >>
+### 📌 Database 
 
 <div>
     <img src="https://img.shields.io/badge/Mybatis-ff0000?style=flat-square&logo=Mybatis&logoColor=white"/>
@@ -62,14 +62,14 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
-### << Communication >>
+### 📌 Communication 
 
 <div>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </div>
 
-### << IDE >>
+### 📌 IDE 
 
 <div>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
 
-### << Management >>
+### 📌 Management 
 
 <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 </div>
 
-### << Environment >>
+### 📌 Environment
 
 <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
-### << API >>
+### 📌 API 
 
 <div>
     <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
@@ -110,18 +110,20 @@
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=black"/>
 </div>
 
-### << Data Analysis >>
+### 📌 Data Science
 
 <div>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-</div>
-
-### << Machine Learning & Deep Learning >>
-
-<div>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black"/>
+</div>
+
+### 📌 Cloud Computing
+
+<div>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
 <br/>
