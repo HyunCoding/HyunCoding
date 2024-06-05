@@ -30,6 +30,11 @@
 
 ## 🖥️ Project
 
+- 청년들의 문화 생활 플랫폼, '틴플레이' : https://github.com/hyuncoding/teenplay_server
+- Django + AI 서비스 상용화 프로젝트 : https://github.com/hyuncoding/django_with_ai
+- 데이터 분석, RFM 분석, 머신러닝(분류/회귀) 프로젝트 : https://github.com/hyuncoding/ai_project
+- 딥러닝 프로젝트
+
 ## ⌨️ Skill
 
 
