@@ -15,6 +15,7 @@
 ## 🪪 Introduction
 - 닉네임 : hyuncoding
 - 이메일 : hyunstwolte@gmail.com
+- notion : https://separate-office-bbd.notion.site/ea86babe62b849108fe3e7edcfec2293?pvs=4
 - 블로그 : https://blog.naver.com/yh96619661
 - 취  미 : 운동, 맛집탐방, 음악 및 영화 감상 등
 
