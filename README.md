@@ -135,7 +135,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0223)](https://solved.ac/hyun0223)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyun0223&theme=cold)
 
 <br/>
 
