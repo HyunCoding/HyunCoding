@@ -126,10 +126,11 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </div>
 
-### 📌 Cloud Computing
+### 📌 Cloud Computing & SSH
 
 <div>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Putty-02569B?style=flat-square&logo=&logoColor=white"/>
 </div>
 
 <br/>
