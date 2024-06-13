@@ -129,7 +129,7 @@
 ### 📌 Cloud Computing & SSH
 
 <div>
-    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
     <img src="https://img.shields.io/badge/Putty-02569B?style=flat-square&logo=&logoColor=white"/>
 </div>
 
